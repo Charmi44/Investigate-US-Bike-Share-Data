@@ -1,0 +1,20 @@
+Below online resources has been referres while developing the code.
+
+
+
+You Tube references :
+1. https://www.youtube.com/watch?v=ZDa-Z5JzLYM
+2 
+2.https://www.youtube.com/watch?v=Uh2ebFW8OYM
+3
+3.https://www.youtube.com/watch?v=Q3wnzSqzlrw
+
+
+
+StackOverflow references :
+
+1. https://stackoverflow.com/questions/38511096/is-there-an-alternative-for-sys-exit-in-python
+
+2. https://stackoverflow.com/questions/3887381/typeerror-nonetype-object-is-not-iterable-in-python
+
+3. https://stackoverflow.com/questions/3887381/typeerror-nonetype-object-is-not-iterable-in-python
